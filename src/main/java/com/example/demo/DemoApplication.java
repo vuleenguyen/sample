@@ -7,7 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class DemoApplication {
 
 	public static void main(String[] args) {
-		// This is main application. Focus on this
+		// This is main application. 
 		SpringApplication.run(DemoApplication.class, args);
 	}
 }
